@@ -94,6 +94,8 @@ Molex 10p Panelmate Connector
 
 <center>![10p Diagram](/assets/images/Battery_Connector_Pin_Diagram_Alpha.jpg)</center>
 
+Reference to the post of [this](https://www.lattepanda.com/topic-p26075.html#p26075), the compatible connector is 1254 Series. For tinker who want to build his own battery, you can find knock off male connector on aliexpress on $0.2/pcs.
+
 ### Installation Steps
 
 1. Align the 10p battery connector with the LattePanda Alpha battery connector. Make sure the positive red wires align with pins 1-3 on the diagram above.
